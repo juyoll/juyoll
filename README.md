@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+안녕하세요! 권혁주입니다!한단계씩 밟아나가는중입니다. 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
