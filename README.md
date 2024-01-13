@@ -1,7 +1,4 @@
-###--
-**juyoll/juyoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 안녕하세요! 권혁주입니다!한단계씩 밟아나가는중입니다. 
 
